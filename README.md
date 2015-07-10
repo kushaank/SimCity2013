@@ -6,24 +6,7 @@ team29
 Our project implements multiple residences, a market, a bank, a restaurant, 2 busses and multiple pedestrians utilizing A*, Day and Night system, among other features. 
 
 Within our project, we initially assigned very specific roles for each team member to be responsible for. However, as development progressed, each team member assisted one another in the assignments we were responsible for, so every team member had a hand in every branch of the project. 
-
-The specific initial emphases of each team member were:
-
-Ryan: Transportation, overworld GUI, car crashes, individual restaurant
-
-Jeffrey: Transportation, git-integration, control panel interface, individual restaurant, error checking
-
-Mike: Person, Roles, shifts, time, All generic interfaces, wrapper classes, building integrations, person debugging, XML parser, individual restaurant
-
-Kushaan: Person, Roles, parties, time, restaurant-market interaction
-
-Dylan: Residence and Residence GUI, original restaurant integration, apartments and apartment guis, XML scenarios, parties
-
-Luca: Market and Market GUI, delivery trucks, individual restaurant, restaurant-market interactions
-
-Byron: Bank and Bank GUI, XML parser, individual restaurant 
-
-Additionally, every member helped each other with design, bug-fixing, and J-Unit testing. We believe the work distribution was overall equal between all 7 of us. 
+Team Members: Kushaan Kumar, Dylan Resnik, Michael Cieselka, Ryan Davis, Jeffrey Chau, Luca Spinazzola 
 
 #Execution instructions
 
